@@ -1,5 +1,5 @@
 # odin-recipes
-Recipes Project
+Recipes Project <br>
 This is intended to be a small project to practice the application of what I've learned about HTML in TOP so far.
 <ul>
   <li>Tags</li>
